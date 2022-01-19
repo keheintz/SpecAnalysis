@@ -5,3 +5,4 @@ specutils
 lmfit
 dustmaps
 extinction
+VoigtFit
