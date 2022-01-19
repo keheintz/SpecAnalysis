@@ -2,3 +2,6 @@ numpy
 matplotlib
 astropy
 specutils
+lmfit
+dustmaps
+extinction
