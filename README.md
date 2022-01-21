@@ -1,1 +1,1 @@
-Text here
+Tutorial on how to analyze spectroscopic data and derive basic physical properties. Includes both an example of a emission-line spectrum of a (GRB host) galaxy and an example of an absorption-line spectrum of a quasar DLA.
